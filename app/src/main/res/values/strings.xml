@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">weblateTest</string>
+    <string name="weblate_test">weblateTest2</string>
+    <string name="test_weblate">weblateTest3</string>
 </resources>
